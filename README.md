@@ -1,2 +1,2 @@
 # learngithub
-Learn
+This repo is for testing when I learn git
